@@ -1,0 +1,24 @@
+{
+  "name": "tslint-intelight",
+  "description": "A TSLint config for Airbnb JavaScript Style",
+  "version": "0.0.1",
+  "author": "Intelight",
+  "license": "UNLICENSED",
+  "repository": "github:Intelight/tslint-intelight",
+  "main": "tslint.js",
+  "scripts": {
+    "commit": "git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "dependencies": {
+    "tslint-config-airbnb": "^5.4.2",
+    "tslint-react-recommended": "^1.0.15"
+  },
+  "devDependencies": {
+    "commitizen": "^2.9.6"
+  }
+}
