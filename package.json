@@ -1,11 +1,11 @@
 {
   "name": "tslint-intelight",
-  "description": "A TSLint config for Airbnb JavaScript Style",
+  "description": "TSLint rules for Intelight projects.",
   "version": "0.0.1",
   "author": "Intelight",
   "license": "UNLICENSED",
   "repository": "github:Intelight/tslint-intelight",
-  "main": "tslint.js",
+  "main": "index.js",
   "scripts": {
     "commit": "git-cz"
   },
