@@ -1,0 +1,27 @@
+{
+  "name": "@intelight/tslint",
+  "description": "TSLint rules used at Intelight",
+  "version": "0.0.6",
+  "author": "Intelight",
+  "license": "MIT",
+  "repository": "github:Intelight/tslint-intelight",
+  "main": "index.js",
+  "scripts": {
+    "commit": "git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "dependencies": {
+    "tslint": "^5.8.0",
+    "tslint-eslint-rules": "^4.1.1",
+    "tslint-react": "^3.3.3",
+    "tslint-react-recommended": "^1.0.15",
+    "typescript": "^2.6.2"
+  },
+  "devDependencies": {
+    "commitizen": "^2.9.6"
+  }
+}
