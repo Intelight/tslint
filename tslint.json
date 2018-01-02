@@ -1,0 +1,30 @@
+{
+  "extends": [
+    "tslint:latest",
+    "tslint:recommended",
+    "tslint-react",
+    "tslint-eslint-rules"
+  ],
+  "rulesDirectory": [],
+  "rules": {
+    "max-line-length": 140,
+    "quotemark": [
+      true,
+      "single"
+    ],
+    "no-trailing-whitespace": [
+      true,
+      "ignore-template-strings"
+    ],
+    "interface-name": [
+      true,
+      "never-prefix"
+    ],
+    "jsx-no-lambda": false,
+    "no-submodule-imports": false,
+    "jsx-no-multiline-js": false,
+    "jsx-boolean-value": false,
+    "jsx-wrap-multiline": false,
+    "object-literal-sort-keys": false
+  }
+}
