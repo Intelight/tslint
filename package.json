@@ -22,6 +22,6 @@
     "typescript": "^2.6.2"
   },
   "devDependencies": {
-    "commitizen": "^2.9.6"
+    "commitizen": "2.9.6"
   }
 }
