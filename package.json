@@ -1,7 +1,7 @@
 {
   "name": "@intelight/tslint",
   "description": "TSLint rules used at Intelight",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "author": "Intelight",
   "license": "MIT",
   "repository": "github:Intelight/tslint-intelight",
