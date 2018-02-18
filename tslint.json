@@ -29,6 +29,7 @@
     "jsx-boolean-value": false,
     "jsx-wrap-multiline": false,
     "object-literal-sort-keys": false,
-    "no-return-await": false
+    "no-return-await": false,
+    "no-unused-variable": true
   }
 }
