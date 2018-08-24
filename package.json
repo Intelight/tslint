@@ -17,6 +17,6 @@
     "typescript": "^3.0.1"
   },
   "devDependencies": {
-    "git-cz": "^1.7.1"
+    "git-cz": "1.7.1"
   }
 }
