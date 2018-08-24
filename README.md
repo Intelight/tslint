@@ -1,5 +1,8 @@
 # @intelight/tslint
-TSLint rules at Intelight.
+
+TSLint rules on Intelight projects.
+
+Extends the following: `tslint:latest`, `tslint:recommended`, `tslint-react`, and `tslint-eslint-rules`.
 
 ## Installation
 
